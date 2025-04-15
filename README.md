@@ -1,5 +1,5 @@
 #  💫 ・ About Me:
-~ 🔭・Working on Lulu (My own discord bot)<br><br>~ 🌱・ I’m currently learning: Python, JavaScript<br><br>~ ⚡・ Fun fact: im currently working on my 2 projects
+~ 🔭・Working on Lulu (My own discord bot)<br><br>~ 🌱・ I’m currently learning: Python, JavaScript<br><br>~ ⚡・ Fun fact: im making roblox games too
 
 
 # 🌐 ・ Socials:
