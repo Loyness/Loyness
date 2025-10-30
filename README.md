@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 - I’m currently working on: ??? (Spoilers (is a discord bot)), etc. (private repos) <br>🌱 - I’m currently learning: JavaScript, MongoDB
+🔭 - I’m currently working on: Enhanced Dynamics, (private repos) <br>🌱 - I’m currently learning: С#
 
 
 # 💻 Tech Stack:
